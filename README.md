@@ -9,5 +9,5 @@
 	<br>
 </li>
 <li>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayek0x&layout=compact&count_private=false&langs_count=8&hide_border=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayek0x&layout=compact&count_private=false&langs_count=8&hide_border=true&theme=dark">
 </li>
