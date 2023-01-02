@@ -3,12 +3,8 @@
 	<img src="https://lanyard-profile-readme.vercel.app/api/973588723809783928?hideTimestamp=true&hideBadges=False"/>
 </p>
 
-<style>
-	li {
-		display: flex;
-	}
-</style>
-<li>
+
+<li display="flex">
 	<img src="https://github-readme-stats.vercel.app/api?username=n4stysec&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
 </li>
 <li>
