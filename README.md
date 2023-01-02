@@ -7,6 +7,6 @@
 <li display="flex">
 	<img src="https://github-readme-stats.vercel.app/api?username=n4stysec&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
 </li>
-<li>
+<li display="flex">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayek0x&layout=compact&count_private=false&langs_count=8&hide_border=true&theme=dark">
 </li>
