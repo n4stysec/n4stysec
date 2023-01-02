@@ -3,7 +3,8 @@
 	<img src="https://lanyard-profile-readme.vercel.app/api/973588723809783928?hideTimestamp=true&hideBadges=False"/>
 </p>
 
-<div align="center>
-	<img src="https://github-readme-stats.vercel.app/api?username=n4stysec&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayek0x&layout=compact&count_private=false&langs_count=8&hide_border=true&theme=dark">	    
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
