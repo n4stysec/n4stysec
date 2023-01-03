@@ -9,4 +9,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4stysec&layout=compact&langs_count=4&theme=dark&title_color=fff&icon_color=fff&text_color=fff&bg_color=0,000,141321"/>
 </div>
 
-# LANGUAGES
+# TECHS
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="ShellScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
+</div>
