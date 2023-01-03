@@ -9,7 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4stysec&layout=compact&langs_count=4&theme=dark&title_color=fff&icon_color=fff&text_color=fff&bg_color=0,000,141321"/>
 </div>
 
-# ABOUT-ME <img height="27" width="24" src="https://cdn.discordapp.com/emojis/1025636120312160306.gif?size=96&quality=lossless">
+# ABOUT-ME <img height="23" width="24" src="https://cdn.discordapp.com/emojis/1025636120312160306.gif?size=96&quality=lossless">
 * Developer
 * Cyber-Security Student
 
