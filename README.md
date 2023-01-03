@@ -6,6 +6,6 @@
 <div align="center" style="display: inline-block">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n4stysec&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=n4stysec&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=n4stysec&show_icons=true&theme=dark#gh-dark-mode-only)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n4stysec&show_icons=true&theme=dark"/>
   
 </div>
