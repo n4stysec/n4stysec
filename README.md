@@ -10,7 +10,7 @@
 </div>
 
 # ABOUT-ME
-* Developer <img height="10" width="10" src="https://cdn.discordapp.com/emojis/1025636120312160306.gif?size=96&quality=lossless">	
+* Developer  <img height="13" width="13" src="https://cdn.discordapp.com/emojis/1025636120312160306.gif?size=96&quality=lossless">	
 
 
 # TECHS
