@@ -6,5 +6,5 @@
 <div align="center" style="display: flex">
   <a href="https://github.com/n4stysec">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=n4stysec&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0,000,141321"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4stysec&layout=compact&langs_count=4&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4stysec&layout=compact&langs_count=4&theme=dark&title_color=fff&icon_color=fff&text_color=fff&bg_color=0,000,141321"/>
 </div>
