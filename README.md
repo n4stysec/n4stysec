@@ -9,8 +9,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4stysec&layout=compact&langs_count=4&theme=dark&title_color=fff&icon_color=fff&text_color=fff&bg_color=0,000,141321"/>
 </div>
 
-#ABOUT-ME
-* Developer <img height="20" width="20" src="https://cdn.discordapp.com/emojis/1025636120312160306.gif?size=96&quality=lossless">
+# ABOUT-ME
+* Developer <img height="14" width="24" src="https://cdn.discordapp.com/emojis/1025636120312160306.gif?size=96&quality=lossless">
 
 # TECHS
 <div style="display: inline_block, padding: 10px"><br>
