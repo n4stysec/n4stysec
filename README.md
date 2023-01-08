@@ -21,5 +21,5 @@
   <img align="center" alt="HTML5" height="50" width="40" src="https://cdn.discordapp.com/emojis/813909686449078353.webp?size=96&quality=lossless">
   <img align="center" alt="CSS" height="50" width="40" src="https://cdn.discordapp.com/emojis/813909685542584321.webp?size=96&quality=lossless">
   <img align="center" alt="LuaScript" height="50" width="50" src="https://cdn.discordapp.com/emojis/813910024517845082.webp?size=96&quality=lossless">
-  <img align="center" alt="NodeJS" height="50" width="50" src="https://cdn.discordapp.com/emojis/806694039432069130.webp?size=96&quality=lossless">
+  <img align="center" alt="NodeJS" height="50" width="45" src="https://cdn.discordapp.com/emojis/806694039432069130.webp?size=96&quality=lossless">
 </div>
