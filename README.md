@@ -15,7 +15,7 @@
 
 
 # TECHS
-<div style="display: inline_block; img {padding: 10px}"><br>
+<div style="display: inline_block; padding-right: 20px;"><br>
   <img align="center" alt="Python" height="50" width="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg">
   <img align="center" alt="Javascript" height="50" width="50" src="https://cdn.discordapp.com/emojis/813907629989691442.webp?size=96&quality=lossless">
   <img align="center" alt="HTML5" height="50" width="40" src="https://cdn.discordapp.com/emojis/813909686449078353.webp?size=96&quality=lossless">
