@@ -11,7 +11,7 @@
 
 # ABOUT-ME <img height="23" width="24" src="https://cdn.discordapp.com/emojis/1025636120312160306.gif?size=96&quality=lossless">
 * Developer
-* Cyber-Security Student
+* Cyber-Security Begginer
 
 
 # TECHS
